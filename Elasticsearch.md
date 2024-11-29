@@ -184,7 +184,12 @@ PUT /my_index2
 ### 3、同义词插件连接数据库管理词库
 重写elasticsearch-analysis-dynamic-synonym插件
 ```
-
+https://github.com/bells/elasticsearch-analysis-dynamic-synonym
+```
+参考链接
+```
+https://blog.csdn.net/weixin_43315211/article/details/100144968
+https://blog.csdn.net/qq_30341855/article/details/130133610
 ```
 
 
